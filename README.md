@@ -5,7 +5,7 @@ The mod is currently a work in progress and it may not work. The mod requires te
 
 ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═
 
-**** INSTRUCTIONS ****
+**INSTRUCTIONS**
 
 PLEASE READ INSTRUCTIONS CAREFULLY
 
@@ -24,4 +24,4 @@ Should you encounter a problem installing the mod, click on 'Reset All Forges' i
 2) On the left side menu click on "Properties"
 3) Under "Local files" click "Verify files"
 
-Big thanks to ilikedetectives for digging up the file locations and textures. hypermorphic for creating the tools and being helpful to the AC modding community. Makacha for teaching us the basics and always lending a hand when help was needed. The above wouldn't have been possible without the help of those involved and the people that inspires us to do so every day. Thank you all!
+*Big thanks to ilikedetectives for digging up the file locations and textures. hypermorphic for creating the tools and being helpful to the AC modding community. Makacha for teaching us the basics and always lending a hand when help was needed. The above wouldn't have been possible without the help of those involved and the people that inspires us to do so every day. Thank you all!*
