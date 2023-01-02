@@ -1,6 +1,7 @@
-The mod is currently a work in progress and it may not work. The mod requires testing.
+The mod has not been tested and may be broken.
+Current work in progress.
 
-**** INSTRUCTIONS ****
+**INSTRUCTIONS**
 
 PLEASE READ INSTRUCTIONS CAREFULLY
 
