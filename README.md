@@ -16,13 +16,16 @@ PLEASE READ INSTRUCTIONS CAREFULLY
 - DeimosKassandraMod folder
 
 **STEPS**
+
 Once you have Forger 2.7 Utility or better installed:
+
 1) Go to "code" and "download zip"
 2) Drag and drop `DeimosKassandraMod` folder and `DeimosKassandraCorrection-v3.forger2` into "ForgerPatches" where ACOdyssey.exe is.
 3) Return to Forger Utility and click "Rescan",  and the mod should appear under "Deimos Kassandra Complexion Correction" in yellow.
 4) Makes your choices (you can check all or some) and boot the game.
 
 **TOUBLESHOOTING**
+
 Should you encounter a problem installing the mod, click on 'Reset All Forges' in Forger and verify your game files.
 
 UBISOFT CONNECT
