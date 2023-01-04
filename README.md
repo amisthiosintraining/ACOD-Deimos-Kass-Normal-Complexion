@@ -2,7 +2,7 @@
 
 Replaces Deimos Kassandra's skin with Kassandra's. Removing the pale complexion with normal complexion.
 
-The mod is currently a work in progress and it may not work. The mod requires testing.
+Mod is tested and working :)
 
 ___________________ 
 
