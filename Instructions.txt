@@ -1,7 +1,6 @@
 **DEIMOS KASSANDRA NORMAL SKIN COMPLEXION**
 
-The mod has not been tested and may be broken.
-Current work in progress.
+Mod is tested and working :)
 
 Replaces Deimos Kassandra's skin with Kassandra's. Removing the pale complexion with normal complexion.
 
