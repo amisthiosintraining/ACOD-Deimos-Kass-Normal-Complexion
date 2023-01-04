@@ -1,4 +1,4 @@
-# Deimos-Kassandra-Skin
+# Deimos-Kassandra-Skin-Normal-Skin-Complexion
 
 Replaces Deimos Kassandra's skin with Kassandra's. Removing the pale complexion with normal complexion.
 
@@ -12,7 +12,7 @@ PLEASE READ INSTRUCTIONS CAREFULLY
 
 **REQUIREMENTS**
 - Forger 2.7 and above >> https://www.nexusmods.com/assassinscreedodyssey/mods/42
-- DeimosKassandraCorrection-v3.forger2
+- DeimosKassNormSkinComplexion-v3.2.forger2
 - DeimosKassandraMod folder
 
 **STEPS**
@@ -20,8 +20,8 @@ PLEASE READ INSTRUCTIONS CAREFULLY
 Once you have Forger 2.7 Utility or better installed:
 
 1) Go to "code" and "download zip"
-2) Drag and drop `DeimosKassandraMod` folder and `DeimosKassandraCorrection-v3.forger2` into "ForgerPatches" where ACOdyssey.exe is.
-3) Return to Forger Utility and click "Rescan",  and the mod should appear under "Deimos Kassandra Complexion Correction" in yellow.
+2) Drag and drop `DeimosKassandraMod` folder and `DeimosKassNormSkinComplexion-v3.2.forger2` into "ForgerPatches" where ACOdyssey.exe is.
+3) Return to Forger Utility and click "Rescan",  and the mod should appear under "Deimos Kassandra Normal Skin Complexion" in yellow.
 4) Makes your choices (you can check all or some) and boot the game.
 
 **TOUBLESHOOTING**
