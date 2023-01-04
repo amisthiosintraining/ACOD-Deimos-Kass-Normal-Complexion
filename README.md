@@ -28,12 +28,12 @@ Once you have Forger 2.7 Utility or better installed:
 
 Should you encounter a problem installing the mod, click on 'Reset All Forges' in Forger and verify your game files.
 
-UBISOFT CONNECT
+**UBISOFT CONNECT**
 1) Go to Games, right click "view game details"
 2) On the left side menu click on "Properties"
 3) Under "Local files" click "Verify files"
 
-STEAM
+**STEAM**
 1) Go to "Games", select "View Game Library"
 2) Right Click Assassin's Creed Odyssey
 3) Select "Properties" / "Local Files"
