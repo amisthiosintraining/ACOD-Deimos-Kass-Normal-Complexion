@@ -1,4 +1,6 @@
-# Deimos-Kassandra-Skin-Normal-Skin-Complexion
+# ACOD | Deimos Kassandra Normal Skin Complexion
+
+<img src="https://imgur.com/05Ai0pc.png">
 
 Replaces Deimos Kassandra's skin with Kassandra's. Removing the pale complexion with normal complexion.
 
@@ -11,7 +13,7 @@ ___________________
 PLEASE READ INSTRUCTIONS CAREFULLY
 
 **REQUIREMENTS**
-- Forger 2.7 and above >> https://www.nexusmods.com/assassinscreedodyssey/mods/42
+- <a href="https://www.nexusmods.com/assassinscreedodyssey/mods/42">Forger 2.7 and above</a>
 - DeimosKassNormSkinComplexion-v3.2.forger2
 - DeimosKassandraMod folder
 
